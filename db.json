@@ -40,23 +40,6 @@
         "genero":"F",
         "imagen":"https://los40es00.epimg.net/los40/imagenes/2020/02/18/moda/1582031586_174416_1582031889_noticia_normal.jpg" 
       
-      },
-      
-      {
-        "id": 6,
-        "nombre":"Doja Cat",
-        "edad":25,
-        "genero":"F",
-        "imagen":"https://cdn.smehost.net/sonymusiccommx-mxprod/wp-content/uploads/2020/12/Doja-Cat.png"
-      
-      },
-      {
-        "id": 7,
-        "nombre":"The Kid Laroi ",
-        "edad":18,
-        "genero":"M",
-        "imagen":"none" 
-      
-      } 
+      }
           ]
 }
