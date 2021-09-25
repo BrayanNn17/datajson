@@ -5,7 +5,7 @@
         "id": 1,
       "nombre":"Justin Bieber",
       "edad":27,
-      "genero":"M",
+  
       "imagen":"https://upload.wikimedia.org/wikipedia/commons/d/da/Justin_Bieber_in_2015.jpg"
       
     
@@ -14,7 +14,7 @@
         "id": 2,
         "nombre":"Ed Sheeran",
         "edad":30,
-        "genero":"M",
+
         "imagen":"https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/9/6/4/0/9640a9aa5c9fd17dd1a3015756725789.jpg" 
       
       },
@@ -22,22 +22,22 @@
         "id": 3,
         "nombre":"The Weeknd",
         "edad":31,
-        "genero":"M",
-        "imagen":"none"
+
+        "imagen":"https://www.hola.com/imagenes/actualidad/20210313185907/zayn-malik-the-weeknd-boicot-grammy/0-929-775/g-the-weeknd3-t.jpg"
       },
       {
         "id": 4,
         "nombre":"Drake",
         "edad":34,
-        "genero":"M",
-        "imagen":"none" 
+
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68A7e_15yx3CnRn4Y-wRxJuac-gmyHWJA-g&usqp=CAU" 
       
       },
       {
         "id": 5,
         "nombre":"Dua Lipa",
         "edad":26,
-        "genero":"F",
+
         "imagen":"https://los40es00.epimg.net/los40/imagenes/2020/02/18/moda/1582031586_174416_1582031889_noticia_normal.jpg" 
       
       }
